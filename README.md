@@ -17,3 +17,8 @@ _Estudiante de programación de forma autodidacta_ 💻
 # Metas por cumplir 🚀
 * Trabajar en Roblox o Discord
 * Crear mas de 20 repositorios
+
+
+# RoadMap que sigo
+![https://drive.google.com/file/d/1z3ePRBmUiaCgq2EfTd3OCAUzaIg9S3R0/view?usp=sharing](https://cdn.discordapp.com/attachments/887013623254384660/887362103420280862/roadmapsh.png)
+https://roadmap.sh/backend

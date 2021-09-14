@@ -1,16 +1,19 @@
-#Hello World!
+![Hobbies](https://media.discordapp.net/attachments/887013623254384660/887354249032368168/hobbieskdsad.png?width=1020&height=280)
+# Hello World! 🍂
+_Estudiante de programación de forma autodidacta_ 💻
+### ✍ Estoy aprendiendo:
+* HTML5
+* JavaScript
+* CSS3
+* C#
+* Python
+* Git
 
-<!--
-**dampokan/dampokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧷 Herramientas que manejo:
+* Figma
+* Adobe XD
+* Adobe Photoshop
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Metas por cumplir 🚀
+* Trabajar en Roblox o Discord
+* Crear mas de 20 repositorios

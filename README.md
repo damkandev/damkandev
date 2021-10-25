@@ -15,7 +15,6 @@ _Estudiante de programación de forma autodidacta_ 💻
 * Adobe Photoshop
 
 # Metas por cumplir 🚀
-* Trabajar en Roblox o Discord
 * Crear mas de 20 repositorios
 
 

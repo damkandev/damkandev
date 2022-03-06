@@ -3,7 +3,8 @@ programador frenetico pero siempre sin tomar café, solo té 🍵.
 <table>
 <tr>
     <td valign="center">
-
+        ✨ Estudiando Programación en el Instituto Superior de Comercio
+        💻 Programador, Desarrollador Web y Hacker
     </td>
 </tr>
 </table>

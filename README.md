@@ -10,7 +10,7 @@
 
 <br>
 <hr>
-<h3>📚 Tiempo dedicado esta semana</h3>
+<h3>📚 Time spent this week</h3>
 
 ```text
 VUE         1 hour          █████████████| | | | | | |   33.33 %

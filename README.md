@@ -9,7 +9,7 @@
 - 🐭 Fun fact: I'm a fan of Better Call Saul and Breaking Bad.
 
 <br>
------------------
+<hr>
 <h3>📚 Tiempo dedicado esta semana</h3>
 
 ```text

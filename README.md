@@ -3,7 +3,7 @@
 <p align="center">I have loved computers since I was a child, so much so that I am now learning mathematics.</p>
 
 - 📠 I'm working on an **application** to manage your company's **messaging**.
-- 🍭 I am currently learning **MySQL**, **MongoDB**, **Vue** and **Python**.
+- 🍭 I am currently learning **React**, **RxJava**, **TypeScript** and **Python**.
 - 📖 Ask me about **JavaScript**
 - ✉️ You can contact me through twitter: https://twitter.com/DamianPanes
 - 🐭 Fun fact: I'm a fan of Better Call Saul and Breaking Bad.

@@ -10,9 +10,5 @@
 
 <br>
 <hr>
-<h3>📚 Time spent this week</h3>
-
-```text
-React       1 hour          █████████████| | | | | | |
-Python      45 mins         ██████ | | | | | | | | | |
-```
+<h3>📚 My Schedule</h3>
+![Schedule](https://i.postimg.cc/bwTP5hDC/file-cover-1.png)

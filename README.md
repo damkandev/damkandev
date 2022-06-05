@@ -11,5 +11,4 @@
 <br>
 <hr>
 <h3>📚 My Schedule</h3>
-![image](https://user-images.githubusercontent.com/70489858/169730295-1a44a416-a6f6-4773-b52c-76a920fdea23.png)
-
+https://user-images.githubusercontent.com/70489858/169730295-1a44a416-a6f6-4773-b52c-76a920fdea23.png

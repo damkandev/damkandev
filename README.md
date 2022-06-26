@@ -7,7 +7,10 @@
 - 📖 Ask me about **JavaScript**
 - ✉️ You can contact me through twitter: https://twitter.com/DamianPanes
 - 🐭 Fun fact: I'm a fan of Better Call Saul and Breaking Bad.
-
 <br>
-<hr>
-<h3>📚 My Schedule</h3>
+<h2 align="center">Skills</h2>
+<p align="center">Un resumen de todas mis habilidades dentro del mundo de la programación.</p>
+
+<p align="center">
+  
+</p>

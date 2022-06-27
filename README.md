@@ -18,7 +18,7 @@
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/electron.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/html.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/java.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/javascript.jng' height='42px'/>
+  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/javascript.jpg' height='42px'/>
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/nodejs.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/php.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/python.png' height='42px'/>

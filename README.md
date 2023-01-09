@@ -2,6 +2,8 @@
 # Ahoy GitHub User!
 Welcome to my README, here you will find what I do recurrently in programming and the languages and tools I use.
 
+I am currently focused on creating [FrogLabs](https://github.com/dampokan/froglabs) which is an academy of classes by students for students, at the same time that I study cybersecurity.
+
 ### 🔧 Technologies & Tools
 > ![Linux](https://img.shields.io/badge/Linux-2EC08C?style=for-the-badge&logo=linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-2bbc8a?style=for-the-badge&logo=html5&logoColor=white)

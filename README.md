@@ -1,26 +1,29 @@
-![Damkan](https://i.postimg.cc/g2V51hVL/kgkgkgkgkgkgkgk.png)
-<h2 align="center">🌿 Damián Panes </h2>
-<p align="center">I have loved computers since I was a child, so much so that I am now learning mathematics.</p>
+![Damkan](banner.png)
+# Ahoy GitHub User!
+Welcome to my README, here you will find what I do recurrently in programming and the languages and tools I use.
 
-- 📠 I'm working on an **application** to manage your company's **messaging**.
-- 🍭 I am currently learning **React**, **RxJava**, **TypeScript** and **Python**.
-- 📖 Ask me about **JavaScript**
-- ✉️ You can contact me through twitter: https://twitter.com/DamianPanes
-- 🐭 Fun fact: I'm a fan of Better Call Saul and Breaking Bad.
-<br>
-<h2 align="center">Skills</h2>
-<p align="center">A summary of all my skills within the programming world.</p>
+### 🔧 Technologies & Tools
+> ![Linux](https://img.shields.io/badge/Linux-2EC08C?style=for-the-badge&logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2bbc8a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2bbc8a?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-2bbc8a?style=for-the-badge&logo=javascript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2bbc8a?style=for-the-badge&logo=electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2bbc8a?style=for-the-badge&logo=electron&logoColor=white)
+![SCSS](https://img.shields.io/badge/SASS-2bbc8a?style=for-the-badge&logo=sass&logoColor=white)
+![SupaBase](https://img.shields.io/badge/SupaBase-2bbc8a?style=for-the-badge&logo=supabase&logoColor=white)
 
-<p align="center">
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/csharp.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/css.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/debian.webp' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/electron.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/html.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/java.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/javascript.jpg' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/nodejs.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/php.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/python.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/dampokan/dampokan/main/skills/sass.png' height='42px'/>
-</p>
+### 📈 GitHub Stats
+<a href="https://damkan.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampokan&hide=java,html,tex,css&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://damkan.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dampokan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Damian Panes Github Stats" />
+</a>
+
+<a href="https://github.com/dampokan/froglabs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dampokan&repo=froglabs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/dampokan/studying">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dampokan&repo=studying&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>

@@ -29,3 +29,5 @@ I am currently focused on creating [FrogLabs](https://github.com/dampokan/frogla
 <a href="https://github.com/dampokan/studying">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dampokan&repo=studying&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
+
+<a href="https://app.daily.dev/damkan"><img src="https://api.daily.dev/devcards/80a2151f57ab4dfb8c221befc70e9dd0.png?r=uhj" width="400" alt="Damian's Dev Card"/></a>

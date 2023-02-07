@@ -16,12 +16,12 @@ I am currently focused on creating [FrogLabs](https://github.com/dampokan/frogla
 
 ### 📈 GitHub Stats
 <a href="https://damkan.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampokan&hide=java,html,tex,css&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damkandev&hide=java,html,tex,css&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://damkan.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dampokan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Damian Panes Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damkandev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Damian Panes Github Stats" />
 </a>
 <a href="https://github.com/dampokan/studying">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dampokan&repo=studying&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=damkandev&repo=studying&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>

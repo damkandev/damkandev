@@ -1,4 +1,7 @@
-![Damkan](banner.png)
+<video loop>
+  <source src="Frame_3.mp4" type="video/mp4">
+</video>
+
 # Ahoy GitHub User!
 Welcome to my README, here you will find what I do recurrently in programming and the languages and tools I use.
 

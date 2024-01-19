@@ -20,7 +20,7 @@ I am currently focused on creating [FrogLabs](https://github.com/dampokan/frogla
 
 ### 📈 GitHub Stats
 <a href="https://damkan.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damkandev&hide=java,html,tex,css&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damkandev&hide=java,html,tex&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://damkan.vercel.app">

@@ -6,7 +6,7 @@
 # Ahoy GitHub User!
 Welcome to my README, here you will find what I do recurrently in programming and the languages and tools I use.
 
-I am currently focused on creating [FrogLabs](https://github.com/dampokan/froglabs) which is an academy of classes by students for students, at the same time that I study cybersecurity.
+I am currently focused on creating [Gran Menú](https://granmenu.me) it is a solution to search for offers in my country Chile.
 
 ### 🔧 Technologies & Tools
 > ![Linux](https://img.shields.io/badge/Linux-2EC08C?style=for-the-badge&logo=linux&logoColor=white)

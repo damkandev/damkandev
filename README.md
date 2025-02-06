@@ -8,8 +8,6 @@ Need a website? Custom software? We’ve got you covered! Contact us, and we’l
 
 ## A little more about me...  
 
-🏫 +8 years programming
-
+🏫 +8 years programming  
 🐸 I like frogs  
-
 💻 JavaScript and Python  

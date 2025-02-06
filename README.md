@@ -1,16 +1,15 @@
-![banner](https://github.com/damkandev/damkandev/assets/70489858/a1494847-0735-4ce3-86ef-907e049c1944)
----------------------------------
-- 🏫 +7 years programming
-- 🐸 I like frogs
-- 💻 JavaScript and Python
-- 🧑‍🎓 Studying Data Science
-- ⏱️ Hobbie Hacking
+![banner](/bannergh.png)
 
---------------------------------------
+## [Gran Menú](https://granmenu.me)  
+Our goal is to make nutrition accessible and practical, so you don’t have to worry too much about it. We also offer an affordable subscription model, ensuring that any student can benefit without overspending.
 
-<p align="center">
-  <a href="https://damkan.lat">
-    <img alt="Commits" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damkandev&layout=pie&theme=vue"/>
-    <img alt="Commits" src="https://github-readme-stats.vercel.app/api?username=damkandev&theme=vue" />
-  </a>
-</p>
+## [Gran Menú Labs](https://labs.granmenu.me)  
+Need a website? Custom software? We’ve got you covered! Contact us, and we’ll quickly help you find the right solution for your needs.
+
+## A little more about me...  
+
+🏫 +8 years programming
+
+🐸 I like frogs  
+
+💻 JavaScript and Python  

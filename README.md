@@ -1,2 +1,7 @@
 - building [rodar.cl](https://rodar.cl), [kachipum](https://kachipum.com) and [keroke.ro](https://keroke.ro)
 - read my blog in [dapan.es](https://dapan.es)
+
+also i made this
+- mailto
+- kinkedin
+- etranslator

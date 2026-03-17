@@ -2,6 +2,6 @@
 - read my blog in [dapan.es](https://dapan.es)
 
 also i made this
-- mailto
-- kinkedin
-- etranslator
+- [etranslator](https://github.com/damkandev/etranslator)
+- [kinkedin](https://github.com/damkandev/kinked)
+- [whatkind](https://github.com/damkandev/whatkind)
